@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/recursion/Recursion Level 1 Questions">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/recursion/Recursion Level 1 Questions/Binary Search" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/recursion/Recursion Level 1 Questions/Fibonacci Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/recursion/Recursion Level 1 Questions/Palindrome" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/recursion/Recursion Level 1 Questions/Print n to 1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/recursion/Recursion Level 1 Questions/Reverse a number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/recursion/Recursion Level 1 Questions/Sum n to 1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/recursion/Recursion Level 1 Questions/count steps" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/recursion/Recursion Level 1 Questions/count zeros" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/recursion/Recursion Level 1 Questions/factorial" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/recursion/Recursion Level 1 Questions/product of digits" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/recursion/Recursion Level 1 Questions/sum of digits" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

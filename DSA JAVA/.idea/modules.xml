@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DSA JAVA.iml" filepath="$PROJECT_DIR$/DSA JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/recursion/Recursion Level 1 Questions/Recursion Level 1 Questions.iml" filepath="$PROJECT_DIR$/src/recursion/Recursion Level 1 Questions/Recursion Level 1 Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/arrays/arrays.iml" filepath="$PROJECT_DIR$/src/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/maths/maths.iml" filepath="$PROJECT_DIR$/src/maths/maths.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/recursion/recursion.iml" filepath="$PROJECT_DIR$/src/recursion/recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/searching/searching.iml" filepath="$PROJECT_DIR$/src/searching/searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/sorting/sorting.iml" filepath="$PROJECT_DIR$/src/sorting/sorting.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/conditionals_loops" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/first_idea_program" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/functions_methods" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/maze_problem_and_backtracking" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/patterns" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/strings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/switch_statements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/varargs_varaibles_arguments" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
